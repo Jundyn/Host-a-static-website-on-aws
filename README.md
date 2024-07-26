@@ -11,7 +11,10 @@ In this project, a static website is deployed on AWS using an EC2 instance withi
 ## Reference Diagram
 
 The reference diagram illustrating the architecture is included in the GitHub repository.
-![Uploading WhatsApp Image 2024-07-24 at 21.58.17.jpeg…]()
+![Host_a_Static_Website_on_AWS](https://github.com/user-attachments/assets/564d68a8-d835-4e64-a8ac-22829e8e8429)
+
+
+
 
 ## Architecture
 
