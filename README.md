@@ -102,7 +102,7 @@ systemctl start httpd
 
 This project demonstrates a complete setup for hosting a static website on AWS, leveraging a range of AWS services to ensure high availability, scalability, and security. For more detailed instructions and configuration, please refer to the files and diagrams provided in the GitHub repository.
 
-![Static Web Site Page](https://github.com/user-attachments/assets/f0efeb20-34b5-4be2-ba25-7ff2bc820be8)
+![WebPage](https://github.com/Jundyn/Host-a-static-website-on-aws/blob/main/WebPage.png)
 
 
 ---
